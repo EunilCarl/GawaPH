@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vZTZEuH80ApUuryVNNtH6NUud23Ma0mKF7OE4bRy6ME=",
+  "Hash": "5FcCnr1VpbsAOfSx8BVjahNNBccWIgmP28894SsDAgk=",
   "Source": "GawaPH",
   "BasePath": "_content/GawaPH",
   "Mode": "Default",
@@ -164,12 +164,12 @@
       "OriginalItemSpec": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-m8b9wlhasa.gz",
+      "Identity": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-z15n9gsyoi.gz",
       "SourceId": "GawaPH",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GawaPH",
-      "RelativePath": "css/site#[.{fingerprint=m8b9wlhasa}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=z15n9gsyoi}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -178,8 +178,8 @@
       "RelatedAsset": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5dgw0q6h2b",
-      "Integrity": "J515c8SBggSeoP6zayHyt31hSsGNC9p9RYBwEk900uk=",
+      "Fingerprint": "l3mwmiyqcp",
+      "Integrity": "H8py3q5dMIuX9SK0EKGBVXJinQpfw3J79oTiE7snXDM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m8b9wlhasa",
-      "Integrity": "JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY=",
+      "Fingerprint": "z15n9gsyoi",
+      "Integrity": "V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2750,12 +2750,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-m8b9wlhasa.gz",
+      "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-z15n9gsyoi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000871839582"
+          "Quality": "0.000894454383"
         }
       ],
       "ResponseHeaders": [
@@ -2765,15 +2765,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1146"
+          "Value": "1117"
         },
         {
           "Name": "ETag",
-          "Value": "\"J515c8SBggSeoP6zayHyt31hSsGNC9p9RYBwEk900uk=\""
+          "Value": "\"H8py3q5dMIuX9SK0EKGBVXJinQpfw3J79oTiE7snXDM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:55:04 GMT"
+          "Value": "Tue, 06 May 2025 18:14:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2793,13 +2793,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY=\""
+          "Value": "W/\"V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY="
+          "Value": "sha256-V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY="
         }
       ]
     },
@@ -2814,7 +2814,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3124"
+          "Value": "3039"
         },
         {
           "Name": "Content-Type",
@@ -2822,11 +2822,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY=\""
+          "Value": "\"V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:55:04 GMT"
+          "Value": "Tue, 06 May 2025 18:14:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2836,13 +2836,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY="
+          "Value": "sha256-V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-m8b9wlhasa.gz",
+      "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-z15n9gsyoi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2851,7 +2851,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1146"
+          "Value": "1117"
         },
         {
           "Name": "Content-Type",
@@ -2859,11 +2859,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J515c8SBggSeoP6zayHyt31hSsGNC9p9RYBwEk900uk=\""
+          "Value": "\"H8py3q5dMIuX9SK0EKGBVXJinQpfw3J79oTiE7snXDM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:55:04 GMT"
+          "Value": "Tue, 06 May 2025 18:14:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2881,18 +2881,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-J515c8SBggSeoP6zayHyt31hSsGNC9p9RYBwEk900uk="
+          "Value": "sha256-H8py3q5dMIuX9SK0EKGBVXJinQpfw3J79oTiE7snXDM="
         }
       ]
     },
     {
-      "Route": "css/site.m8b9wlhasa.css",
-      "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-m8b9wlhasa.gz",
+      "Route": "css/site.z15n9gsyoi.css",
+      "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-z15n9gsyoi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000871839582"
+          "Quality": "0.000894454383"
         }
       ],
       "ResponseHeaders": [
@@ -2902,15 +2902,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1146"
+          "Value": "1117"
         },
         {
           "Name": "ETag",
-          "Value": "\"J515c8SBggSeoP6zayHyt31hSsGNC9p9RYBwEk900uk=\""
+          "Value": "\"H8py3q5dMIuX9SK0EKGBVXJinQpfw3J79oTiE7snXDM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:55:04 GMT"
+          "Value": "Tue, 06 May 2025 18:14:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2930,13 +2930,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY=\""
+          "Value": "W/\"V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m8b9wlhasa"
+          "Value": "z15n9gsyoi"
         },
         {
           "Name": "label",
@@ -2944,12 +2944,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY="
+          "Value": "sha256-V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY="
         }
       ]
     },
     {
-      "Route": "css/site.m8b9wlhasa.css",
+      "Route": "css/site.z15n9gsyoi.css",
       "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2959,7 +2959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3124"
+          "Value": "3039"
         },
         {
           "Name": "Content-Type",
@@ -2967,11 +2967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY=\""
+          "Value": "\"V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:55:04 GMT"
+          "Value": "Tue, 06 May 2025 18:14:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2981,7 +2981,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m8b9wlhasa"
+          "Value": "z15n9gsyoi"
         },
         {
           "Name": "label",
@@ -2989,13 +2989,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-JsW8vx/6/jtuj+2x1t6Ez6MVmdnWI/9YBih9PVIUsHY="
+          "Value": "sha256-V6Lr1MdwB60qo53ruMQrR8Qo9yA8LzXtg3Y444neIzY="
         }
       ]
     },
     {
-      "Route": "css/site.m8b9wlhasa.css.gz",
-      "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-m8b9wlhasa.gz",
+      "Route": "css/site.z15n9gsyoi.css.gz",
+      "AssetFile": "C:\\Users\\eunil\\source\\repos\\GawaPH\\GawaPH\\obj\\Debug\\net9.0\\compressed\\3nerfv0azp-z15n9gsyoi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3004,7 +3004,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1146"
+          "Value": "1117"
         },
         {
           "Name": "Content-Type",
@@ -3012,11 +3012,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J515c8SBggSeoP6zayHyt31hSsGNC9p9RYBwEk900uk=\""
+          "Value": "\"H8py3q5dMIuX9SK0EKGBVXJinQpfw3J79oTiE7snXDM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 06 May 2025 17:55:04 GMT"
+          "Value": "Tue, 06 May 2025 18:14:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3034,7 +3034,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "m8b9wlhasa"
+          "Value": "z15n9gsyoi"
         },
         {
           "Name": "label",
@@ -3042,7 +3042,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J515c8SBggSeoP6zayHyt31hSsGNC9p9RYBwEk900uk="
+          "Value": "sha256-H8py3q5dMIuX9SK0EKGBVXJinQpfw3J79oTiE7snXDM="
         }
       ]
     },

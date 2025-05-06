@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GawaPH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5a382853830d5ede863f59db0ffbabe586c88d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GawaPH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GawaPH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

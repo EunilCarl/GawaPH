@@ -218,5 +218,6 @@ C:\Users\eunil\source\repos\GawaPH\GawaPH\bin\Debug\net9.0\runtimes\win-arm64\na
 C:\Users\eunil\source\repos\GawaPH\GawaPH\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\eunil\source\repos\GawaPH\GawaPH\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\eunil\source\repos\GawaPH\GawaPH\obj\Debug\net9.0\GawaPH.csproj.Up2Date
-C:\Users\eunil\source\repos\GawaPH\GawaPH\obj\Debug\net9.0\compressed\3nerfv0azp-m8b9wlhasa.gz
 C:\Users\eunil\source\repos\GawaPH\GawaPH\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\eunil\source\repos\GawaPH\GawaPH\obj\Debug\net9.0\GawaPH.sourcelink.json
+C:\Users\eunil\source\repos\GawaPH\GawaPH\obj\Debug\net9.0\compressed\3nerfv0azp-z15n9gsyoi.gz
